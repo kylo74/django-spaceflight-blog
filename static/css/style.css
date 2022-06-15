@@ -68,3 +68,7 @@ a:hover {
     border-top: 4px solid white;
     color: white;
 }
+
+.fa-solid {
+    color: black;
+}
