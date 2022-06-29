@@ -42,3 +42,12 @@ html, body {
     margin-bottom: 10px;
     margin-top: 30px;
 }
+
+.post-link {
+    text-decoration: none;
+    color: black;
+}
+
+a.post-link:hover {
+    color: rgb(89, 88, 92);
+}
