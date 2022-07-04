@@ -47,4 +47,10 @@ a.post-link:hover {
 footer {
     background-color: #351C75;
     font-size: large;
+    min-height: 8vh;
+    font-size: x-large;
+}
+
+footer p {
+    padding-top: 20px;
 }
