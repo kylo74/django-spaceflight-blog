@@ -54,3 +54,9 @@ footer {
 footer p {
     padding-top: 20px;
 }
+
+.masthead {
+    background-image: url("https://cdn.britannica.com/32/69632-050-AA671F9E/space-shuttle-Endeavour-International-Space-Station-spacecraft-December-9-2000.jpg");
+    min-height: 36vh;
+    color: aliceblue;
+}
